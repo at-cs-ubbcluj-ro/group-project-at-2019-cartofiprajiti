@@ -3,11 +3,12 @@ Please use this repository to maintain your work for the team project.
 Also please fill the following details:
 
 - Team name: Cartofi Prajiti
-- Students (SCS username - Name):
+Students (SCS username - Name):
 
 - saie2216 -> Sabadis Andreea
 - slie2217 -> Sabou Lorena
 - plie2203 -> Pop Lorena
+- oeie2190 -> Obreja Elena
 
 
 
