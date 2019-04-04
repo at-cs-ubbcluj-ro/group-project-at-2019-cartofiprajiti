@@ -2,10 +2,20 @@ Please use this repository to maintain your work for the team project.
 
 Also please fill the following details:
 
-- Team name:
+- Team name: Cartofi Prajiti
 - Students (SCS username - Name):
 
+saie2216
+slie2217
+plie2203
+
+
+
 Project idea:
+Noise level monitoring 
+
+
+
 
 =============
 
