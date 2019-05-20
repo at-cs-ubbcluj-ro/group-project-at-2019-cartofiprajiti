@@ -14,11 +14,11 @@ Students (SCS username - Name):
 
 
 Project idea:
-Estimate the number of persons in a room.
-*Using the video feed or static images detect the number of persons in a room.
-*Train the model using TensorFlow.
-*Record the values over time.
-*Present historical data over time.
+Estimate the number of persons in a room.  
+*Using the video feed or static images detect the number of persons in a room.  
+*Train the model using TensorFlow.  
+*Record the values over time.  
+*Present historical data over time.  
 
 
 
